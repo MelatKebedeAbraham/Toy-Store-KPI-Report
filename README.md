@@ -4,6 +4,8 @@
 
 Welcome to our Retail Analytics project powered by Power BI. This project aims to revolutionize the way retailers analyze and optimize their business performance, specifically focusing on the toy category. By leveraging advanced data analytics techniques, we provide comprehensive insights into key performance indicators (KPIs), profits, and revenue for stores. Our platform enables users to make informed decisions based on location-based trends and item orders, ultimately driving strategic growth and success in the competitive retail landscape.
 
+![Toy Store KPI Report (Picture)](https://github.com/MelatKebedeAbraham/Toy-Store-KPI-Report/assets/132658597/b62683a1-996b-4349-963c-ae660c6af661)
+
 ## Features
 
 - Calculates key performance indicators (KPIs) such as sales, profit margins, and revenue.
